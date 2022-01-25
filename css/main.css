@@ -17,10 +17,8 @@ footer { /* Arttu made footer */
     margin: 0;
     background-image: url(https://gmcdn-sxcqif3sepi.netdna-ssl.com/city-guides/img/uploads/nhood/original/1470453567.57650.jpg);
     background-position: 120%;
-    height: 150px;
-    width: 1920;
-    bottom: 0;
-
+   
+    position:absolute; width:100px; height:100%; top:0; left:0; 
     
 }
 
