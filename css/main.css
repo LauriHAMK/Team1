@@ -24,7 +24,7 @@ footer { /* Arttu made footer */
 }
 
 .sidebar {
-        
+    color: forestgreen;   
     float: right;
     width: 10%;
     min-height: 400px;
