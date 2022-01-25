@@ -36,5 +36,7 @@ footer { /* Arttu made footer */
     font-size: 22px;
     background-color: black
     
-
-    }
+}
+.widget-area{
+    color: forestgreen;
+}
