@@ -17,16 +17,21 @@ footer { /* Arttu made footer */
     margin: 0;
     background-image: url(https://gmcdn-sxcqif3sepi.netdna-ssl.com/city-guides/img/uploads/nhood/original/1470453567.57650.jpg);
     background-position: 120%;
-   
-    position:absolute; width:100px; height:100%; top:0; left:0; 
+    height: 150px;
+    width: 1920;
+    bottom: 0;
+    
     
 }
 
 .sidebar {
+    position: absolute;
+    top: 0;
+    right: 0;
     height: 100%;
     color: forestgreen;   
     float: right;
-    width: 10%;
+    width: 100%;
     min-height: 400px;
     line-height: 40px;
     padding: 15px;
@@ -35,6 +40,7 @@ footer { /* Arttu made footer */
     font-weight: bold;
     font-size: 22px;
     background-color: black
-       
+    
 }
 
+ 
