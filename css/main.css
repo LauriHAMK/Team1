@@ -16,10 +16,9 @@ footer {
     padding: 500;
     margin: 0;
     background-image: url(https://www.worldatlas.com/upload/00/7a/a1/shutterstock-1544405363.jpg);
-    background-position: 120%;
+    position: fixed;
     height: 150px;
     width: 1920;
-    position: fixed;
     
 }
 
