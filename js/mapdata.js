@@ -720,12 +720,6 @@ var simplemaps_worldmap_mapdata={
         name: "Praha",
         url: "praha.html"
       },
-      "1": {
-        lat: 59.933,
-        lng: 30.306,
-        name: "Saint Petersburg",
-        url: "saint-petersburg.html"
-      },
       "2": {
         lat: 45.512,
         lng: -73.555,
