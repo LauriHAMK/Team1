@@ -4,7 +4,7 @@ h1{
     font-size: 14;
     padding: 500;
     margin: 0;
-    background-image: url(https://www.linagro.tn/images/slider/slides/1920x400/southern-alps-1920x400.png);
+    background-image: url(https://www.worldatlas.com/upload/00/7a/a1/shutterstock-1544405363.jpg);
     background-repeat: no-repeat;
     background-position: 120%;
     background-size: cover;
@@ -13,21 +13,20 @@ h1{
 }
 
 footer { /* Arttu made footer */
-    
     padding: 500;
     margin: 0;
-    background-color: #212529;
+    background-image: url(https://gmcdn-sxcqif3sepi.netdna-ssl.com/city-guides/img/uploads/nhood/original/1470453567.57650.jpg);
     background-position: 120%;
     height: 150px;
     width: 1920;
     bottom: 0;
-    
+    ;
     
 }
 
 .sidebar {
     height: 100%;
-    color: rgb(41, 117, 41);   
+    color: forestgreen;   
     float: right;
     width: 10%;
     min-height: 400px;
@@ -37,7 +36,7 @@ footer { /* Arttu made footer */
     text-align:left;
     font-weight: bold;
     font-size: 22px;
-    background-color: #212529
+    background-color: black
        
 }
 
