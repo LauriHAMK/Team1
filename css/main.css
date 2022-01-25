@@ -25,6 +25,8 @@ footer { /* Arttu made footer */
 }
 
 .sidebar {
+    position: absolute;
+    height: 100%;
     color: forestgreen;   
     float: right;
     width: 10%;
@@ -36,6 +38,6 @@ footer { /* Arttu made footer */
     font-weight: bold;
     font-size: 22px;
     background-color: black
-    
+       
 }
 
