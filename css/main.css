@@ -4,5 +4,6 @@ h1{
     background-image: url(https://www.worldatlas.com/upload/00/7a/a1/shutterstock-1544405363.jpg);
     background-repeat: no-repeat;
     background-position: 120%;
-
+    height: 410px;
+    width: auto;
 }
