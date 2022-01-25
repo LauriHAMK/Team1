@@ -3,7 +3,8 @@ h1{
     margin: 0;
     background-image: url(https://www.worldatlas.com/upload/00/7a/a1/shutterstock-1544405363.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: 120%;
-    height: 300px;
+    height: 250px;
     width: 1920;
 }
