@@ -6,10 +6,10 @@ h1{
     margin: 0;
     background-image: url(https://www.linagro.tn/images/slider/slides/1920x400/southern-alps-1920x400.png);
     background-repeat: no-repeat;
-    background-position: 120%;
+    background-position: center;
     background-size: cover;
     height: 300px;
-    width: 1920;
+    width: 100%;
 }
 
 footer { /* Arttu made footer */
