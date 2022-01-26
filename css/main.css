@@ -37,6 +37,7 @@ footer { /* Arttu made footer */
     padding: 40px;
 }
 
+/*Lauri made dropmenu*/
 
 .dropbtn {
     background-color: #1504aa;
@@ -73,9 +74,12 @@ footer { /* Arttu made footer */
   
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
+/*Lauri made dropmenu*/
 
+/*Lauri made map*/
 .map{
     width: 75%;
     max-width: 1200px;
 }
+/*Lauri made map*/
 
