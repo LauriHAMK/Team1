@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 14px;
     padding: 500;
     margin: 0;
@@ -16,7 +16,7 @@ h1{
     color: blue;
     text-align: center;
     font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 }
@@ -79,13 +79,16 @@ footer { /* Arttu made footer */
 
 /*Lauri made map*/
 .map{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
     width: 75%;
     max-width: 1200px;
 }
 /*Lauri made map*/
 
-/*Miika made footer css*/
+/*Miika made footer text css*/
 .footertext{
   font-size: small;
   color: #ddd;
@@ -94,6 +97,7 @@ footer { /* Arttu made footer */
 }
 
 .INC{
+  font-family: 'Courier New', Courier, monospace;
   font-size: small;
   color: #ddd;
   text-align: right;

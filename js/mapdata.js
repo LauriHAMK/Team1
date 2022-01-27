@@ -18,7 +18,7 @@ var simplemaps_worldmap_mapdata={
       
       //Location defaults
       location_description: "Location description",
-      location_color: "#eab55f",
+      location_color: "blue",
       location_opacity: 0.9,
       location_hover_opacity: 1,
       location_url: "",
