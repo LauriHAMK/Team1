@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 14;
+    font-size: 14px;
     padding: 500;
     margin: 0;
     background-image: url(https://ourbesttrip.com/chairs-min.jpg);
@@ -26,6 +26,7 @@ footer { /* Arttu made footer */
     margin: 0;
     background-color: #212529;
     background-position: center;
+    background-size: cover;
     height: 150px;
     width: 1920;
     bottom: 0;
@@ -78,8 +79,24 @@ footer { /* Arttu made footer */
 
 /*Lauri made map*/
 .map{
+    
     width: 75%;
     max-width: 1200px;
 }
 /*Lauri made map*/
+
+/*Miika made footer css*/
+.footertext{
+  font-size: small;
+  color: #ddd;
+  background-size: cover;
+  text-align: center;
+}
+
+.INC{
+  font-size: small;
+  color: #ddd;
+  text-align: right;
+  background-size: cover;
+}
 
