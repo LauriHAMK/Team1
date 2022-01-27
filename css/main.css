@@ -2,7 +2,6 @@ h1{
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 14px;
-    padding: 500;
     margin: 0;
     background-image: url(https://ourbesttrip.com/chairs-min.jpg);
     background-repeat: no-repeat;
@@ -22,13 +21,12 @@ h1{
 }
 
 footer { /* Arttu made footer */
-    padding: 500;
     margin: 0;
     background-color: #212529;
     background-position: center;
     background-size: cover;
     height: 150px;
-    width: 1920;
+    width: auto;
     bottom: 0;
     ;
     
