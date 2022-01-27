@@ -12,32 +12,4 @@
     width: 100%;
 }
 
-footer { /* Arttu made footer */
-    margin: 0;
-    background-color: black;
-    background-position: center;
-    background-size: cover;
-    height: 150px;
-    width: auto;
-    bottom: 0;
-    ;
-    
-}
-
-/*Miika made footer text css*/
-.footertext{
-    font-size: small;
-    color: rgb(0, 0, 0);
-    background-size: cover;
-    text-align: center;
-  }
-  
-  .INC{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: small;
-    color: rgb(0, 0, 0);
-    text-align: right;
-    background-size: cover;
-  }
-  
   
