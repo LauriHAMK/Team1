@@ -724,7 +724,7 @@ var simplemaps_worldmap_mapdata={
         lat: 45.512,
         lng: -73.555,
         name: "Montreal",
-        url: "montreal.html"
+        url: "Montreal.html"
       },
       paris: {
         name: "Paris",
